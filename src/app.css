@@ -18,7 +18,7 @@ form {
   border-radius: 10px;
 }
 
-p, h1, label, input {
+p, h1, label, input, span {
   font-family: Arial, Helvetica, sans-serif;
 }
 
